@@ -6,7 +6,7 @@ if unit.upper() == "L":
 elif unit.upper() == "K":
     conversion2 = weight / 0.45
     print(f'Your weight in KG is: {conversion2} KGs ')
-
+# This project was created with credit to https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=PL2YqTZEeE8_lWnyeLl3_YNxkddUXvx3cU&index=5 #
 
 
 
