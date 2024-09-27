@@ -11,3 +11,7 @@ while guess_count < guesses_allowed:
 else:
     print("Sorry, you were incorrect, run the code to try again :)")
 
+# NOTES
+# Struggled a little bit with the "break" - forgot to indent the print command after the IF statement
+# Otherwise pretty easy and little to no errors
+# Source: https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=PL2YqTZEeE8_lWnyeLl3_YNxkddUXvx3cU&index=5 
