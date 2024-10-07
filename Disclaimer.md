@@ -1,2 +1,1 @@
-This space includes coded Python projects through youtube tutorials, online websites, etc. While I have typed this code myself, and in some cases I may have come up with some of the code by myself, 
-I do not claim any of this as original work.
+I do not claim any of this as original work - I follow along tutorials and credit where relevant. I do type my own code (no copy + pasting) and create my own notes.
